@@ -38,7 +38,7 @@
 			<value>${username}</value>
 		</property>
 		<property name="url">
-			<value>${url}</value>
+			<value>${url} </value>
 		</property>
 	</bean>
 </beans>
